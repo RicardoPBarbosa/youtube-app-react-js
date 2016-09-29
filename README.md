@@ -1,6 +1,8 @@
 # Youtube App
 ####Simple Youtube-like Application to search videos using Youtube API
 
+*Praticing React with the Redux architecture and more advanced ES6 features*
+
 ![Screenshot](screenshot.gif)
 
 ## Config
